@@ -40,6 +40,25 @@ List of Classes & id's used here :
 - email ( to target email with javascript)
 - age (to target age with javascript)
 
+## error Message outCome
+
+> error_FirstName
+ >> <img src='./images/fname.png'>
+>error_LastName
+<img src='./images/lname.png'>  
+
+> error_email
+>> <img src='./images/email.png'>  
+
+> error_uniName  
+>> <img src='./images/uname.png'>  
+
+> error_age
+> ><img src='./images/age.png'>
+
+
+
+
 ### Functions validation()
         const validation = () => {
     let fName = document.getElementById('fName').value;
@@ -80,7 +99,8 @@ List of Classes & id's used here :
     }
 
     alert('Form submitted successfully!');
-    return true}
+    return true
+    }
 
        
 
