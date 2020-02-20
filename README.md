@@ -12,5 +12,7 @@ etc
 Within these input section there are some specifin input method for example - Name section is only for letters where customer input their name , email section is only for emails where customer input their mail address not their phone number or name.  
 To make sure customer fill them in correct method there is a validation way you can create , by doing that customer will get alert about their wrong input.  
 There is a default way of HTML to make this validation.But JavaScript makes it even more interective to look at. Here is our form page :
-
-<img src='./images/ss1.png' height='240px' width='440px' style="border:2px solid red">
+<figure>
+<img src='./images/ss1.png' height='240px' width='440px' >
+<figcaption>The HTML Reference logo</figcaption>
+</figure>
