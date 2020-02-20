@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form validation 2</title>
+    <link rel="stylesheet" href="main.css">
+
+</head>
+
+<body>
+    <div class='container'>
+        <div class='heading'>
+            <h1>This is a form
+        </div>
+        <div id='error'></div>
+        <div class='inner'>
+            <form id="form1" onsubmit="return validation()">
+                <label class='lab'>
+                    First name
+              </label>
+                <input class='ip' id='fName' type='text' placeholder='First Name'>
+
+                </input> <br>
+
+                <label class='lab'>
+                    Last name
+                </label>
+                <input class='ip' id='lName' type='text' placeholder='Last Name'>
+
+                </input><br>
+
+                <label class='lab'>
+                    Email
+                </label>
+                <input class='ip' id='email' type='text' placeholder='email'>
+
+                </input><br>
+
+                <label class='lab'>
+                   University
+                </label>
+                <input class='ip' id='uName' type='text' placeholder='University Name'>
+
+                </input><br>
+
+                <label class='lab'>
+                    Age
+                </label>
+                <input class='ip' id="age" type='number' placeholder='Age'>
+
+                </input><br>
+                <div class='btn'>
+                    <input type='submit'>
+                </div><br>
+            </form>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
