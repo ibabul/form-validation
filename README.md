@@ -13,4 +13,4 @@ Within these input section there are some specifin input method for example - Na
 To make sure customer fill them in correct method there is a validation way you can create , by doing that customer will get alert about their wrong input.  
 There is a default way of HTML to make this validation.But JavaScript makes it even more interective to look at. Here is our form page :
 
-<img src='./images/ss1.png' height='240px' width='440px' float = right>
+<img src='./images/ss1.png' height='240px' width='440px' style="border:2px solid red">
