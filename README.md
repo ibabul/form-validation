@@ -43,22 +43,23 @@ List of Classes & id's used here :
 ## error Message outCome
 
 > error_FirstName
- >> <img src='./images/fname.png'>
+ >> <img src='./images/fname.png' height='240px' width='440px'>  
+
 >error_LastName
-<img src='./images/lname.png'>  
+>> <img src='./images/lname.png' height='240px' width='440px'>  
 
 > error_email
->> <img src='./images/email.png'>  
+>> <img src='./images/email.png' height='240px' width='440px'>  
 
 > error_uniName  
->> <img src='./images/uname.png'>  
+>> <img src='./images/uname.png' height='240px' width='440px'>  
 
 > error_age
-> ><img src='./images/age.png'>
+> ><img src='./images/age.png' height='240px' width='440px'>
 
 ## successful submission
 > submitted Successfully
->> <img src='./images/submitted.png'>
+>> <img src='./images/submitted.png' height='240px' width='440px'>
 
 ### Functions validation()
         const validation = () => {
