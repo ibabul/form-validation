@@ -61,7 +61,7 @@ List of Classes & id's used here :
 > submitted Successfully
 >> <img src='./images/submitted.png' height='240px' width='440px'>
 
-### Functions validation()
+### Function validation()
         const validation = () => {
     let fName = document.getElementById('fName').value;
     let lName = document.getElementById('lName').value;
