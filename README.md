@@ -80,9 +80,7 @@ List of Classes & id's used here :
     }
 
     alert('Form submitted successfully!');
-    return true
-
-}
+    return true}
 
        
 
